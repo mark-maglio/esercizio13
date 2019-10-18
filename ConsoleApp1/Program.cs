@@ -27,7 +27,7 @@ namespace Sconto
                 totale = prezzo2 + scontato;
                 Console.WriteLine($"Lo sconto è di {sconto} euro e il prezzo da pagare {totale} euro");
             }
-            Console.WriteLine("arrivederci");
+        
             Console.ReadLine();
         }
     }
